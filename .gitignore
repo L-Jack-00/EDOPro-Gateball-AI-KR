@@ -1,0 +1,8 @@
+# Binaries
+*.pdb
+*.log
+*.bak
+.system_generated/
+*.tmp
+thumbs.db
+.DS_Store

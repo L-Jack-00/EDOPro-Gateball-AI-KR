@@ -1,0 +1,170 @@
+[
+    {
+        "name": "[GOAT] 범용 게이트볼 봇",
+        "deck": "GoatUniversal",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[0703] 범용 게이트볼 봇",
+        "deck": "0703Universal",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[1103] 범용 게이트볼 봇",
+        "deck": "1103Universal",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[GOAT] 데몬",
+        "deck": "GoatDaemon",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[GOAT] 변이카오스",
+        "deck": "GoatMetamorphosisChaos",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[GOAT] 조크 카오스 터보",
+        "deck": "GoatZorcChaosTurbo",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[GOAT] 카오스 전사",
+        "deck": "GoatChaosWarrior",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[GOAT] 화지가구토",
+        "deck": "GoatHinoKaguTsuchi",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[0703] 생환 야수",
+        "deck": "0703SafeReturnBeast",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[0703] 언데드",
+        "deck": "0703Undead",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[0703] 오션 비트",
+        "deck": "0703OceanBeat",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[1103] 결속 가제트",
+        "deck": "1103SolidarityGadget",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[1103] 스드히비",
+        "deck": "1103SkillDrainHero",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "[1103] 제왕",
+        "deck": "1103Monarch",
+        "difficulty": 2,
+        "masterRules": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    }
+]
